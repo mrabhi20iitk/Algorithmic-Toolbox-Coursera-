@@ -1,1 +1,2 @@
-# Algorithmic-Toolbox-Coursera-
+# Algorithmic-Toolbox-Coursera
+All assignemnt solutions in week order
